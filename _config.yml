@@ -23,7 +23,7 @@ repository               : "joannazhang88/joannazhang88.github.io"  #"academicpa
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jiahang-profile.png"
   name             : "Jiahang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Finance"
