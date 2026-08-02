@@ -23,10 +23,8 @@ My research interests are in sustainable finance, financial technology, and corp
 
 Presented at: FMA PhD Consortium (2025), Massey Sustainable Finance Conference (2025), AFBC (2025), and The University of Hong Kong (2025).
 
-### Working Papers
 
 ### Do Green Bonds Inform Stock Analysts? <span style="font-weight: normal;">(with Dragon Tang)</span>
-
 
 Presented at (\*by coauthor): AsianFA (2026), CICF (2025\*), GRASFI (2025), CSBF (2025), IRF 2025 Conference (2025), HKU Governance and Sustainability PhD Workshop (2025), Harbin Institute of Technology (2025\*), Renmin University of China, Southwestern University of Finance and Economics (2025\*), Sun Yat-sen University (2025\*), University of Hong Kong (2024), University of Nottingham Ningbo (2026), and the University of Science and Technology of China (2025\*).
 
