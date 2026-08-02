@@ -20,23 +20,23 @@ My research interests are in sustainable finance, financial technology, and corp
 
 ### Job Market Paper
 
-#### The Credibility Premium
+### The Credibility Premium
 
 Presented at: FMA PhD Consortium (2025), Massey Sustainable Finance Conference (2025), AFBC (2025), and The University of Hong Kong (2025).
 
 ### Working Papers
 
-#### Do Green Bonds Inform Stock Analysts?
+### Do Green Bonds Inform Stock Analysts?
 
 With Dragon Tang
 
 Presented at (\*by coauthor): AsianFA (2026), CICF (2025\*), GRASFI (2025), CSBF (2025), IRF 2025 Conference (2025), HKU Governance and Sustainability PhD Workshop (2025), Harbin Institute of Technology (2025\*), Renmin University of China, Southwestern University of Finance and Economics (2025\*), Sun Yat-sen University (2025\*), University of Hong Kong (2024), University of Nottingham Ningbo (2026), and the University of Science and Technology of China (2025\*).
 
-#### The Paris Agreement and Corporate Emissions
+### The Paris Agreement and Corporate Emissions
 
 Presented at: SWUFE International Conference on Green Finance and ESG (2025), CFRI & CIRF (2023), and University of Hong Kong (2023).
 
-#### The Bright Side of Excess Control Rights: Evidence from Green Investments
+### The Bright Side of Excess Control Rights: Evidence from Green Investments
 
 With Dragon Tang
 
@@ -55,5 +55,6 @@ With Dragon Tang
 ### Work in Progress
 
 A Hierarchical Explainable Deep Network for Corporate Performance Prediction
+
 Private Firm Green Bonds
 
