@@ -45,7 +45,7 @@ Presented at: AFA Poster (2024), AsianFA PhD Consortium (2024), AFBC (2023), and
 
 ### Publication
 
-#### Empty Promises for Emission Targets
+### Empty Promises for Emission Targets
 
 With Dragon Tang
 
