@@ -18,9 +18,8 @@ My research interests are in sustainable finance, financial technology, and corp
 
 ## Research
 
-### Job Market Paper
 
-### The Credibility Premium
+### The Credibility Premium (Job Market Paper)
 
 Presented at: FMA PhD Consortium (2025), Massey Sustainable Finance Conference (2025), AFBC (2025), and The University of Hong Kong (2025).
 
