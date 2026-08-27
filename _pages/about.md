@@ -53,7 +53,7 @@ Presented at: AFA Poster, AsianFA PhD Consortium, AFBC, and SoFiE.
 
 ### Work in Progress
 
-A Hierarchical Explainable Deep Network for Corporate Performance Prediction
+Private Firm Green Bonds (with Dragon Tang, Beiyun Xiao, and Yupu Zhang)
 
-Private Firm Green Bonds
+A Hierarchical Explainable Deep Network for Corporate Performance Prediction (with Ming Yang)
 
