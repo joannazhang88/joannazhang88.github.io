@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am an assistant professor at School of Finance, Nankai University.
+I am an assistant professor at the School of Finance of Nankai University.
 
 I completed my PhD degree at the University of Hong Kong Business School. I received my master’s degree from the University of Chicago and my bachelor’s degree from Oberlin College.
 
