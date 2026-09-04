@@ -26,11 +26,11 @@ author:
   avatar           : "jiahang-profile.png"
   name             : "Jiahang Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Finance"
+  bio              : "Assistant Professor in Finance"
   #location         : "Hong Kong"
-  employer         : "The University of Hong Kong"
+  employer         : "Nankai University"
   uri              : # URL
-  email            : "jzhang88@connect.hku.hk" 
+  email            : "jiahangzhang@nankai.edu.cn" 
 
   # Academic websites
   academia         : # URL
