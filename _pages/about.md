@@ -8,25 +8,25 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in Finance at the University of Hong Kong Business School.
+I am an assistant professor at School of Finance, Nankai University.
 
-I received my master’s degree from the University of Chicago and my bachelor’s degree from Oberlin College.
+I completed my PhD degree at the University of Hong Kong Business School. I received my master’s degree from the University of Chicago and my bachelor’s degree from Oberlin College.
 
 My research interests are in sustainable finance, financial technology, and corporate finance.
 
-**Contact:** [jzhang88@connect.hku.hk](mailto:jzhang88@connect.hku.hk)
+**Contact:** [jiahangzhang@nankai.edu.cn](mailto:jiahangzhang@nankai.edu.cn)
 
 ## Research
 
 
 ### The Credibility Premium (Job Market Paper)
 
-Presented at: FMA PhD Consortium, Massey Sustainable Finance Conference, AFBC, and The University of Hong Kong.
+Presented at: FMA PhD Consortium, Massey Sustainable Finance Conference, AFBC, and Shanghai University of Finance and Economics, The University of Hong Kong, The University of Macau.
 
 
 ### Do Green Bonds Inform Stock Analysts? <span style="font-weight: normal;">(with Dragon Tang)</span>
 
-Presented at (\*by coauthor): AsianFA, CICF\*, GRASFI, CSBF, IRF 2025 Conference, HKU Governance and Sustainability PhD Workshop, Harbin Institute of Technology\*, Renmin University of China\*, Southwestern University of Finance and Economics\*, Sun Yat-sen University\*, University of Hong Kong, University of Nottingham Ningbo, and the University of Science and Technology of China\*.
+Presented at (\*by coauthor): AsianFA, CICF\*, GRASFI, CSBF, IRF 2025 Conference, HKU Governance and Sustainability PhD Workshop, Harbin Institute of Technology\*, Renmin University of China\*, Southwestern University of Finance and Economics\*, Sun Yat-sen University\*, University of Gothenburg\*, University of Hong Kong, University of Nottingham Ningbo\*, and the University of Science and Technology of China\*.
 
 ### The Paris Agreement and Corporate Emissions
 
@@ -47,7 +47,7 @@ Presented at: AFA Poster, AsianFA PhD Consortium, AFBC, and SoFiE.
 
 ### Do cryptocurrency markets react to issuer sentiments? Evidence from Twitter <span style="font-weight: normal;">(with Chi Zhang)</span>
 
-*Research in International Business and Finance* 2022.
+*Research in International Business and Finance*, 2022.
 
 ---
 
