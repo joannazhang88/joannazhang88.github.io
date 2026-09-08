@@ -14,7 +14,7 @@ I completed my PhD degree at the University of Hong Kong Business School. I rece
 
 My research interests are in sustainable finance, financial technology, and corporate finance.
 
-**Contact:** [jiahangzhang@nankai.edu.cn](mailto:jiahangzhang@nankai.edu.cn)
+**Contact:** [jiahangzhang[at]nankai.edu.cn](mailto:jiahangzhang@nankai.edu.cn);[jzhang88[at]connect.hku.hk](mailto:jzhang88[at]connect.hku.hk)
 
 ## Research
 
