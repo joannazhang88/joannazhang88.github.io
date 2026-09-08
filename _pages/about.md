@@ -14,14 +14,15 @@ I completed my PhD degree at the University of Hong Kong Business School. I rece
 
 My research interests are in sustainable finance, financial technology, and corporate finance.
 
-**Contact:** [jiahangzhang[at]nankai.edu.cn](mailto:jiahangzhang@nankai.edu.cn);[jzhang88[at]connect.hku.hk](mailto:jzhang88[at]connect.hku.hk)
+**Contact:** [jiahangzhang[at]nankai.edu.cn](mailto:jiahangzhang@nankai.edu.cn);
+[jzhang88[at]connect.hku.hk](mailto:jzhang88[at]connect.hku.hk)
 
 ## Research
 
 
 ### The Credibility Premium
 
-Presented at: FMA PhD Consortium, Massey Sustainable Finance Conference, AFBC, and Shanghai University of Finance and Economics, The University of Hong Kong, The University of Macau.
+Presented at: FMA PhD Consortium, Massey Sustainable Finance Conference, AFBC, Shanghai University of Finance and Economics, the University of Hong Kong, and the University of Macau.
 
 
 ### Do Green Bonds Inform Stock Analysts? <span style="font-weight: normal;">(with Dragon Tang)</span>
