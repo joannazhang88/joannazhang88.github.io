@@ -40,15 +40,13 @@ Presented at: AFA Poster, AsianFA PhD Consortium, AFBC, and SoFiE.
 
 ---
 
-### Publication
+### Selected Publication
 
 ### Empty Promises for Emission Targets <span style="font-weight: normal;">(with Dragon Tang)</span>
 
 *Nature Climate Change*, 2025.
 
-### Do cryptocurrency markets react to issuer sentiments? Evidence from Twitter <span style="font-weight: normal;">(with Chi Zhang)</span>
 
-*Research in International Business and Finance*, 2022.
 
 ---
 
