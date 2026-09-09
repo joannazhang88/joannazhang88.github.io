@@ -24,7 +24,7 @@ repository               : "joannazhang88/joannazhang88.github.io"  #"academicpa
 author:
   # Biographic information
   avatar           : "jiahang-profile.png"
-  name             : "Jiahang Zhang"
+  name             : #"Jiahang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Finance"
   #location         : "Hong Kong"
