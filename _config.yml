@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jiahang Zhang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Jiahang Zhang"
 description              : &description "Jiahang's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,8 +24,8 @@ repository               : "joannazhang88/joannazhang88.github.io"  #"academicpa
 author:
   # Biographic information
   avatar           : "jiahang-profile.png"
-  name             : #"Jiahang Zhang"
-  pronouns         : # example: "she/her"  
+  name             : "Jiahang Zhang"
+  pronouns         : "she/her"  
   bio              : #"Assistant Professor in Finance"
   #location         : "Hong Kong"
   employer         : "Nankai University"
