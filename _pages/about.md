@@ -22,16 +22,16 @@ My research interests are in sustainable finance, financial technology, and corp
 
 ### The Credibility Premium
 
-Presented at: FMA PhD Consortium, Massey Sustainable Finance Conference, AFBC, Shanghai University of Finance and Economics, the University of Hong Kong, and the University of Macau.
+Presented at: FMA PhD Consortium, AFBC, Massey Sustainable Finance Conference, Shanghai University of Finance and Economics, the University of Hong Kong, and the University of Macau.
 
 
 ### Do Green Bonds Inform Stock Analysts? <span style="font-weight: normal;">(with Dragon Tang)</span>
 
-Presented at (\*by coauthor): AsianFA, CICF\*, GRASFI, CSBF, IRF 2025 Conference, HKU Governance and Sustainability PhD Workshop, Harbin Institute of Technology\*, Renmin University of China\*, Southwestern University of Finance and Economics\*, Sun Yat-sen University\*, University of Gothenburg\*, University of Hong Kong, University of Nottingham Ningbo\*, and the University of Science and Technology of China\*.
+Presented at (\*by coauthor): AsianFA, CICF\*, GRASFI, CSBF, IRF 2025 Conference, CFAM, HKU Governance and Sustainability PhD Workshop, Harbin Institute of Technology\*, Renmin University of China\*, Southwestern University of Finance and Economics\*, Sun Yat-sen University\*, University of Gothenburg\*, University of Hong Kong, University of Nottingham Ningbo\*, and the University of Science and Technology of China\*.
 
 ### Empowering Corporate Green Investments <span style="font-weight: normal;">(with Dragon Tang and Jiali Yan)</span>
 
-Presented at: AFA Poster, AsianFA PhD Consortium, AFBC, and SoFiE.
+Presented at: AFA Poster, AsianFA PhD Consortium, AFBC, SoFiE, and Nankai University.
 
 
 
