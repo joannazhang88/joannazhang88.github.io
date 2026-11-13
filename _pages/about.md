@@ -19,6 +19,7 @@ My research interests are in sustainable finance, financial technology, and corp
 
 ## Research
 
+### Working Papers
 
 ### The Credibility Premium
 
@@ -27,7 +28,7 @@ Presented at: FMA PhD Consortium, AFBC, Massey Sustainable Finance Conference, S
 
 ### Do Green Bonds Inform Stock Analysts? <span style="font-weight: normal;">(with Dragon Tang)</span>
 
-Presented at (\*by coauthor): AsianFA, CICF\*, GRASFI, CSBF, IRF 2025 Conference, CFAM, HKU Governance and Sustainability PhD Workshop, Harbin Institute of Technology\*, Renmin University of China\*, Southwestern University of Finance and Economics\*, Sun Yat-sen University\*, University of Gothenburg\*, University of Hong Kong, University of Nottingham Ningbo\*, and the University of Science and Technology of China\*.
+Presented at (\*by coauthor): AsianFA, CICF\*, GRASFI, CSBF, IRF 2025 Conference, CFAM, HKU Governance and Sustainability PhD Workshop, Harbin Institute of Technology\*, Renmin University of China\*, Southwestern University of Finance and Economics\*, Sun Yat-sen University\*, University of Gothenburg\*, University of Hong Kong, University of Manchester\*, University of Nottingham Ningbo\*, and the University of Science and Technology of China\*.
 
 ### Empowering Corporate Green Investments <span style="font-weight: normal;">(with Dragon Tang and Jiali Yan)</span>
 
@@ -54,6 +55,4 @@ Presented at: SWUFE International Conference on Green Finance and ESG, CFRI & CI
 ### Work in Progress
 
 Private Firm Green Bonds (with Dragon Tang, Beiyun Xiao, and Yupu Zhang)
-
-A Hierarchical Explainable Deep Network for Corporate Performance Prediction (with Ming Yang)
 
